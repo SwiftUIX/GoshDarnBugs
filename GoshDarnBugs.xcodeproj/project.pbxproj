@@ -15,6 +15,7 @@
 		D4F2F1FC2303273A002E8C50 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4F2F1FB2303273A002E8C50 /* Preview Assets.xcassets */; };
 		D4F2F1FF2303273A002E8C50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4F2F1FD2303273A002E8C50 /* LaunchScreen.storyboard */; };
 		D4F2F208230327CE002E8C50 /* FB6525020.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F2F207230327CE002E8C50 /* FB6525020.swift */; };
+		D7F24042230444AF00DC7B1C /* FB6461590.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F24041230444AF00DC7B1C /* FB6461590.swift */; };
 		DA80E6E723033FBC00793AC1 /* FB6588325.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA80E6E623033FBC00793AC1 /* FB6588325.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		D4F2F1FE2303273A002E8C50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4F2F2002303273A002E8C50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D4F2F207230327CE002E8C50 /* FB6525020.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FB6525020.swift; sourceTree = "<group>"; };
+		D7F24041230444AF00DC7B1C /* FB6461590.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FB6461590.swift; sourceTree = "<group>"; };
 		DA80E6E623033FBC00793AC1 /* FB6588325.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FB6588325.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -85,6 +87,7 @@
 		D4F2F206230327BD002E8C50 /* Bugs */ = {
 			isa = PBXGroup;
 			children = (
+				D7F24041230444AF00DC7B1C /* FB6461590.swift */,
 				D4F2F207230327CE002E8C50 /* FB6525020.swift */,
 				DA80E6E623033FBC00793AC1 /* FB6588325.swift */,
 				BE79A44D230356070059339A /* FB6863188.swift */,
@@ -169,6 +172,7 @@
 				D4F2F208230327CE002E8C50 /* FB6525020.swift in Sources */,
 				D4F2F1F723032739002E8C50 /* ContentView.swift in Sources */,
 				DA80E6E723033FBC00793AC1 /* FB6588325.swift in Sources */,
+				D7F24042230444AF00DC7B1C /* FB6461590.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
