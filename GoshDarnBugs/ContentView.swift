@@ -25,6 +25,7 @@ struct ContentView: View {
         .init(FB6525020.self),
         .init(FB6588325.self),
         .init(FB6863188.self),
+        .init(FB7025809.self),
     ]
 
     var body: some View {

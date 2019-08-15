@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BE79A44E230356070059339A /* FB6863188.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE79A44D230356070059339A /* FB6863188.swift */; };
+		BE931F5523044B7300D04F5B /* FB7025809.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE931F5423044B7300D04F5B /* FB7025809.swift */; };
 		D4F2F1F323032739002E8C50 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F2F1F223032739002E8C50 /* AppDelegate.swift */; };
 		D4F2F1F523032739002E8C50 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F2F1F423032739002E8C50 /* SceneDelegate.swift */; };
 		D4F2F1F723032739002E8C50 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F2F1F623032739002E8C50 /* ContentView.swift */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		BE79A44D230356070059339A /* FB6863188.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FB6863188.swift; sourceTree = "<group>"; };
+		BE931F5423044B7300D04F5B /* FB7025809.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FB7025809.swift; sourceTree = "<group>"; };
 		D4F2F1EF23032739002E8C50 /* GoshDarnBugs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoshDarnBugs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4F2F1F223032739002E8C50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4F2F1F423032739002E8C50 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				D4F2F207230327CE002E8C50 /* FB6525020.swift */,
 				DA80E6E623033FBC00793AC1 /* FB6588325.swift */,
 				BE79A44D230356070059339A /* FB6863188.swift */,
+				BE931F5423044B7300D04F5B /* FB7025809.swift */,
 			);
 			path = Bugs;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				BE79A44E230356070059339A /* FB6863188.swift in Sources */,
 				D4F2F1F323032739002E8C50 /* AppDelegate.swift in Sources */,
+				BE931F5523044B7300D04F5B /* FB7025809.swift in Sources */,
 				D4F2F1F523032739002E8C50 /* SceneDelegate.swift in Sources */,
 				D4F2F208230327CE002E8C50 /* FB6525020.swift in Sources */,
 				D4F2F1F723032739002E8C50 /* ContentView.swift in Sources */,
