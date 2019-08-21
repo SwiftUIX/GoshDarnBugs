@@ -37,6 +37,6 @@ struct SheetView: View {
     }
 
     func dismiss() {
-        presentationMode.value.dismiss() // BUG: This doesn't work!
+        presentationMode.wrappedValue.dismiss() // BUG: This doesn't work!
     }
 }
